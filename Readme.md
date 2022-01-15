@@ -1,6 +1,4 @@
 ### Hi there, I'm Priyank - aka [Priyankar Pal][website] 👋 
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%thecodepedia.com)](https://www.thecodepedia.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/code_priyank?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthecodepedia&screen_name=code_priyank)
 
 ## I'm a coder!!
